@@ -4,4 +4,5 @@ public static void main(String args[]) throws Exception{
   second remote modify！
   hahah,conflicat exists~
   on brach test modify
+  master modify:
 }
